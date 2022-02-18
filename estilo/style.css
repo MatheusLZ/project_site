@@ -64,6 +64,14 @@ footer .link{
     height: 50px;
 }
 
+button{
+    font-style: bold;
+    background-image: none;
+    border-style: none;
+    border-color: antiquewhite;
+    border-style: none;
+}
+
 @media (max-width: 1024px){
 
     header{

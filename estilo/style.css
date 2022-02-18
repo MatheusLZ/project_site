@@ -4,13 +4,45 @@ html {
 }
 
 body{
-    background-color: rgb(107, 155, 187);
+    background-color: rgb(12, 28, 39);
 }
 
 main{
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0.473);
+   
+}
+
+h1{
+    font-size: 2em;
+    color: rgb(1, 7, 63);
+}
+
+h2{
+    font-size: 1.5em;
+    color: rgb(1, 7, 63);
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(1, 7, 63);
+}
+
+
+format{
+    width: 25%;
+}
+
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.voltar img{
+    width: 50px;
+    height: 50px;
 }
